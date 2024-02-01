@@ -1,0 +1,1 @@
+# GetQualcomm-s-files-automatically
